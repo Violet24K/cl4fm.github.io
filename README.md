@@ -1,23 +1,49 @@
-# Trustworthy machine learning
+# Contrastive Learning for Foundation Models and Beyond
 
-This site is the official site for KDD 2023 tutorial on Trustworthy Machine Learning: Robustness, Generalization, and Interpretability.
+![frontpage](KDD24-banner-scaled.jpeg)
 
-![frontpage](https://github.com/mltrust/mltrust.github.io/assets/6158206/c82411bc-464c-4202-bb84-93f646ee144b)
+This site is the official site for KDD 2024 tutorial on Heterogeneous Contrastive Learning for Foundation Models and Beyong.
 
-- Time: 1pm-4pm, Aug. 6th, 2023
-- Place: Long Beach, CA, USA
+- Time: 10:00 AM – 1:00 PM, Sunday, August 25th, 2024
+- Place: Barcelona, Spain
 
-## Agenda
 
-![F2ahr_8aMAACvHH](https://github.com/mltrust/mltrust.github.io/assets/6158206/aa914148-b22c-4287-bcdb-1ae8dbd8f6dc)
+## Audience and Topic
+The tutorial is designed for anyone with basic knowledge of machine learning and artificial intelligence. This tutorial will provide the audience with the basic concept of heterogeneous contrastive learning and how contrastive learning is applied to train and fine-tune the foundation models for view and task heterogeneity. After attending this tutorial, the audience will be familiar with the mechanism of contrastive learning in many domains, such as text mining, image recognition, etc.
 
-1. **Overview of trustworthiness** (Jindong Wang, 10min)  [[Slides](./Overview_and_robustness.pdf)]
-2. **Robust machine learning** (Jindong Wang, 40min)  [[Slides](./Overview_and_robustness.pdf)]
-    - Adversarial robustness (basics, emerging topics in adv. robustness, Transformer robustness)
-    - Semi-supervised learning (basics, advanced algorithms, applications)
-4. **OOD generalizaiton** (Haohan Wang, 40min) [[Slides](./generalization.pdf)]
-5. **Interpretability** (Haohan Wang, 40min)  [[Slides](./interpretability.pdf)]
-6. **Trustworthiness in the era of large models** (Jindong Wang, 40min)  [[Slides](./Trustworthiness_large_models.pdf)]
-     - Evaluation
-     - Enhancement
 
+## Agenda (slides will be added soon)
+
+
+1. **Overview of contrastive learning** (Lecheng Zheng, 15min)  
+2. **Contrastive Learning with View Heterogeneity** (60min)  
+    - Contrastive Learning Basis (Lecheng Zheng)
+    - Contrastive Foundation Models (vision models, language models,  multi-modal models, etc. Zihao Li)
+3. **Contrastive Learning with Task Heterogeneity** (60min)  
+    - Pre-training tasks (Pretext tasks, supervised tasks, preference tasks, etc. Lecheng Zheng)
+    - Downstream tasks (Zihao Li)
+4. **Open Challenges and Future Directions** (15min)
+5. **Q&A**
+
+
+## Material
+```
+@article{DBLP:journals/corr/abs-2404-00225,
+  author       = {Lecheng Zheng and
+                  Baoyu Jing and
+                  Zihao Li and
+                  Hanghang Tong and
+                  Jingrui He},
+  title        = {Heterogeneous Contrastive Learning for Foundation Models and Beyond},
+  journal      = {CoRR},
+  volume       = {abs/2404.00225},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2404.00225},
+  doi          = {10.48550/ARXIV.2404.00225},
+  eprinttype    = {arXiv},
+  eprint       = {2404.00225},
+  timestamp    = {Wed, 08 May 2024 17:22:41 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2404-00225.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
