@@ -14,16 +14,20 @@ The tutorial is designed for anyone with basic knowledge of machine learning and
 
 ## Agenda (slides will be added soon)
 
+**Opening Remark**
 
-1. **Overview of contrastive learning** (Lecheng Zheng, 15min)  
-2. **Contrastive Learning with View Heterogeneity** (60min)  
+1. **Overview of contrastive learning** (Lecheng Zheng, 20min)  
+2. **Contrastive Learning with View Heterogeneity** (65min)  
     - Contrastive Learning Basis (Lecheng Zheng)
     - Contrastive Foundation Models (vision models, language models,  multi-modal models, etc. Zihao Li)
-3. **Contrastive Learning with Task Heterogeneity** (60min)  
+
+  **Coffee Break** (15min)
+
+3. **Contrastive Learning with Task Heterogeneity** (65min)  
     - Pre-training tasks (Pretext tasks, supervised tasks, preference tasks, etc. Lecheng Zheng)
     - Downstream tasks (Zihao Li)
 4. **Open Challenges and Future Directions** (15min)
-5. **Q&A**
+5. **Q&A** (10min)
 
 
 ## Material
