@@ -1,11 +1,16 @@
-# Contrastive Learning for Foundation Models and Beyond
+# [Contrastive Learning for Foundation Models and Beyond](https://github.com/Violet24K/cl4fm.github.io)
 
 ![frontpage](KDD24-banner-scaled.jpeg)
 
-This site is the official site for KDD 2024 tutorial on Heterogeneous Contrastive Learning for Foundation Models and Beyong.
+This site is the official site for KDD 2024 tutorial on Heterogeneous Contrastive Learning for Foundation Models and Beyond.
 
 - Time: 10:00 AM – 1:00 PM, Sunday, August 25th, 2024
 - Place: Barcelona, Spain
+
+
+<p align="center">
+      <img src="./authors.png" alt="drawing" style="width:600px;"/>
+</p>
 
 
 ## Audience and Topic
@@ -23,10 +28,10 @@ The tutorial is designed for anyone with basic knowledge of machine learning and
 
   **Coffee Break** (15min)
 
-3. **Contrastive Learning with Task Heterogeneity** (65min)  
+3. **Contrastive Learning with Task Heterogeneity** (60min)  
     - Pre-training tasks (Pretext tasks, supervised tasks, preference tasks, etc. Lecheng Zheng)
     - Downstream tasks (Zihao Li)
-4. **Open Challenges and Future Directions** (15min)
+4. **Open Challenges and Future Directions** (10min)
 5. **Q&A** (10min)
 
 
