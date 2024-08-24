@@ -1,6 +1,6 @@
 # [Contrastive Learning for Foundation Models and Beyond](https://github.com/Violet24K/cl4fm.github.io)
 
-![frontpage](KDD24-banner-scaled.jpeg)
+![frontpage](authors.png)
 
 This site is the official site for KDD 2024 tutorial on Heterogeneous Contrastive Learning for Foundation Models and Beyond.
 
@@ -8,9 +8,6 @@ This site is the official site for KDD 2024 tutorial on Heterogeneous Contrastiv
 - Place: Barcelona, Spain
 
 
-<p align="center">
-      <img src="./authors.png" alt="drawing" style="width:600px;"/>
-</p>
 
 
 ## Audience and Topic
@@ -21,16 +18,16 @@ The tutorial is designed for anyone with basic knowledge of machine learning and
 
 **Opening Remark**
 
-1. **Overview of contrastive learning** (Lecheng Zheng, 20min)  
+1. **Overview of contrastive learning** (20min)  
 2. **Contrastive Learning with View Heterogeneity** (65min)  
-    - Contrastive Learning Basis (Lecheng Zheng)
-    - Contrastive Foundation Models (vision models, language models,  multi-modal models, etc. Zihao Li)
+    - Contrastive Learning Basis
+    - Contrastive Foundation Models (Vision Models, Language Models,  Multi-modal Models, etc.)
 
   **Coffee Break** (15min)
 
 3. **Contrastive Learning with Task Heterogeneity** (60min)  
-    - Pre-training tasks (Pretext tasks, supervised tasks, preference tasks, etc. Lecheng Zheng)
-    - Downstream tasks (Zihao Li)
+    - Pre-training tasks (Pretext Tasks, Supervised Tasks, Preference Tasks, etc. )
+    - Downstream tasks (Typical Downstream Tasks, Auto ML, Prompting Learning, Multi-task Learning, etc)
 4. **Open Challenges and Future Directions** (10min)
 5. **Q&A** (10min)
 
