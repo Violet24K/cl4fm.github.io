@@ -1,4 +1,4 @@
-# [Contrastive Learning for Foundation Models and Beyond](https://github.com/Violet24K/cl4fm.github.io)
+# Contrastive Learning for Foundation Models and Beyond
 
 ![frontpage](KDD24-banner-scaled.jpeg)
 
