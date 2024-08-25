@@ -16,7 +16,7 @@ The tutorial is designed for anyone with basic knowledge of machine learning and
 
 ## Agenda 
 
-**Opening Remark** [slides](https://drive.google.com/file/d/13G5qzQvARafJvpH2uxL_ou0EVymG1OAp/view?usp=sharing)
+**Opening Remark** [[slides]](https://drive.google.com/file/d/13G5qzQvARafJvpH2uxL_ou0EVymG1OAp/view?usp=sharing)
 
 1. **Overview of contrastive learning** (20min)  
 2. **Contrastive Learning with View Heterogeneity** (65min)  
