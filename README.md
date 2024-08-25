@@ -33,8 +33,8 @@ The tutorial is designed for anyone with basic knowledge of machine learning and
 
 
 ## Material
-The slides of tutorial is available [here](https://drive.google.com/file/d/13G5qzQvARafJvpH2uxL_ou0EVymG1OAp/view?usp=sharing).
-The survey paper is available [here](https://arxiv.org/pdf/2404.00225).
+- The slides of tutorial is available [here](https://drive.google.com/file/d/13G5qzQvARafJvpH2uxL_ou0EVymG1OAp/view?usp=sharing).
+- The survey paper is available [here](https://arxiv.org/pdf/2404.00225).
 
 ## Reference
 ```
