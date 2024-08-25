@@ -14,7 +14,7 @@ This site is the official site for KDD 2024 tutorial on Heterogeneous Contrastiv
 The tutorial is designed for anyone with basic knowledge of machine learning and artificial intelligence. This tutorial will provide the audience with the basic concept of heterogeneous contrastive learning and how contrastive learning is applied to train and fine-tune the foundation models for view and task heterogeneity. After attending this tutorial, the audience will be familiar with the mechanism of contrastive learning in many domains, such as text mining, image recognition, etc.
 
 
-## Agenda (slides will be added soon)
+## Agenda [slides](https://drive.google.com/file/d/13G5qzQvARafJvpH2uxL_ou0EVymG1OAp/view?usp=sharing)
 
 **Opening Remark**
 
