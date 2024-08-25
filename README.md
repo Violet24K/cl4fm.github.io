@@ -15,7 +15,9 @@ The tutorial is designed for anyone with basic knowledge of machine learning and
 
 
 ## Agenda 
+
 [slides](https://drive.google.com/file/d/13G5qzQvARafJvpH2uxL_ou0EVymG1OAp/view?usp=sharing)
+
 **Opening Remark**
 
 1. **Overview of contrastive learning** (20min)  
